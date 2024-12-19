@@ -50,7 +50,7 @@ sudo dnf install glibc-devel.i686 mesa-libGL-devel.i686
 ## Downloading
 
 ```
-git clone --depth 1 https://git.debooger.xyz/debooger/ahc.git
+git clone --depth 1 https://github.com/deboogerxyz/ahc.git
 ```
 
 ## Building
